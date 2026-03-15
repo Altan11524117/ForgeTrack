@@ -1,4 +1,5 @@
 from rest_framework import viewsets, status
+from rest_framework.exceptions import ValidationError
 from rest_framework.response import Response
 from rest_framework.decorators import action
 from .models import Device, Exercise, Routine, WorkoutSession, WorkoutSet
@@ -69,7 +70,7 @@ class RoutineViewSet(viewsets.ModelViewSet):
             device, _ = Device.objects.get_or_create(id=device_id)
             serializer.save(device=device)
         else:
-            raise ValueError("device_id is required to save a routine")
+            raise ValidationError({"device_id": "This field is required."})
 
 
 class WorkoutSessionViewSet(viewsets.ModelViewSet):
@@ -88,7 +89,7 @@ class WorkoutSessionViewSet(viewsets.ModelViewSet):
             device, _ = Device.objects.get_or_create(id=device_id)
             serializer.save(device=device)
         else:
-            raise ValueError("device_id is required to save a workout session")
+            raise ValidationError({"device_id": "This field is required."})
 
 
 class WorkoutSetViewSet(viewsets.ModelViewSet):
