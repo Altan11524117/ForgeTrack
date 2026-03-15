@@ -29,23 +29,8 @@ class RoutineSerializer(serializers.ModelSerializer):
 
     def create(self, validated_data):
         days_data = validated_data.pop('days', [])
-        request = self.context.get('request')
-        
-        device_id = None
-        if request:
-            device_id = (
-                request.query_params.get('device_id') or
-                request.headers.get('Device-Id') or
-                request.headers.get('device-id') or
-                request.data.get('device_id')
-            )
-
-        if device_id:
-            device, _ = Device.objects.get_or_create(id=device_id)
-        else:
-            device, _ = Device.objects.get_or_create(id='00000000-0000-0000-0000-000000000000')
-
-        routine = Routine.objects.create(device=device, **validated_data)
+        # device, views.py perform_create'ten geliyor
+        routine = Routine.objects.create(**validated_data)
 
         order_counter = 0
         for day in days_data:
@@ -68,7 +53,6 @@ class WorkoutSetSerializer(serializers.ModelSerializer):
         model = WorkoutSet
         fields = ['id', 'exercise', 'weight', 'reps', 'rpe', 'created_at']
 
-# İŞTE BİZİM YENİ AKILLI KAYIT SİSTEMİMİZ
 class WorkoutSessionSerializer(serializers.ModelSerializer):
     sets_data = serializers.ListField(child=serializers.DictField(), write_only=True, required=False)
     sets = WorkoutSetSerializer(many=True, read_only=True)
@@ -80,27 +64,12 @@ class WorkoutSessionSerializer(serializers.ModelSerializer):
 
     def create(self, validated_data):
         sets_data = validated_data.pop('sets_data', [])
-        request = self.context.get('request')
-        
-        device_id = None
-        if request:
-            device_id = (
-                request.query_params.get('device_id') or
-                request.headers.get('Device-Id') or
-                request.headers.get('device-id') or
-                request.data.get('device_id')
-            )
-
-        if device_id:
-            device, _ = Device.objects.get_or_create(id=device_id)
-        else:
-            device, _ = Device.objects.get_or_create(id='00000000-0000-0000-0000-000000000000')
-
-        session = WorkoutSession.objects.create(device=device, **validated_data)
+        # device, views.py perform_create'ten geliyor
+        session = WorkoutSession.objects.create(**validated_data)
 
         for set_item in sets_data:
             WorkoutSet.objects.create(
-                session=session, 
+                session=session,
                 exercise_id=set_item.get('exercise'),
                 weight=set_item.get('weight', 0),
                 reps=set_item.get('reps', 0),
