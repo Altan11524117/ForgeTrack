@@ -109,4 +109,12 @@ from corsheaders.defaults import default_headers
 # Varsayılan tüm güvenli başlıklara izin ver, üzerine bir de bizim 'device-id' mührümüzü ekle!
 CORS_ALLOW_HEADERS = list(default_headers) + [
     'device-id',
+    'Device-Id',
 ]
+
+# DRF — no session/cookie auth so the browser's CSRF requirement is never triggered.
+# These are device-keyed public endpoints (no user login).
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [],
+    'DEFAULT_PERMISSION_CLASSES': [],
+}
