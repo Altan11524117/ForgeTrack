@@ -1,0 +1,2891 @@
+[
+  {
+    "model": "workouts.exercise",
+    "pk": 1,
+    "fields": {
+      "name": "Barbell Bench Press",
+      "muscle_group": "CHEST",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 2,
+    "fields": {
+      "name": "Incline Barbell Bench Press",
+      "muscle_group": "CHEST",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 3,
+    "fields": {
+      "name": "Decline Barbell Bench Press",
+      "muscle_group": "CHEST",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 4,
+    "fields": {
+      "name": "Reverse Grip Bench Press",
+      "muscle_group": "CHEST",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 5,
+    "fields": {
+      "name": "Guillotine Press",
+      "muscle_group": "CHEST",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 6,
+    "fields": {
+      "name": "Barbell Floor Press",
+      "muscle_group": "CHEST",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 7,
+    "fields": {
+      "name": "Dumbbell Bench Press",
+      "muscle_group": "CHEST",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 8,
+    "fields": {
+      "name": "Incline Dumbbell Bench Press",
+      "muscle_group": "CHEST",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 9,
+    "fields": {
+      "name": "Decline Dumbbell Bench Press",
+      "muscle_group": "CHEST",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 10,
+    "fields": {
+      "name": "Dumbbell Fly",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 11,
+    "fields": {
+      "name": "Incline Dumbbell Fly",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 12,
+    "fields": {
+      "name": "Decline Dumbbell Fly",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 13,
+    "fields": {
+      "name": "Dumbbell Pullover",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 14,
+    "fields": {
+      "name": "Dumbbell Squeeze Press",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 15,
+    "fields": {
+      "name": "Single Arm Dumbbell Press",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 16,
+    "fields": {
+      "name": "Dumbbell Floor Press",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 17,
+    "fields": {
+      "name": "Machine Chest Press",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 18,
+    "fields": {
+      "name": "Incline Machine Press",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 19,
+    "fields": {
+      "name": "Decline Machine Press",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 20,
+    "fields": {
+      "name": "Plate Loaded Chest Press",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 21,
+    "fields": {
+      "name": "Pec Deck Fly",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 22,
+    "fields": {
+      "name": "Cable Chest Fly",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 23,
+    "fields": {
+      "name": "Low Cable Fly",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 24,
+    "fields": {
+      "name": "High Cable Fly",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 25,
+    "fields": {
+      "name": "Cable Crossover",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 26,
+    "fields": {
+      "name": "Single Arm Cable Fly",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 27,
+    "fields": {
+      "name": "Cable Press",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 28,
+    "fields": {
+      "name": "Standing Cable Chest Press",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 29,
+    "fields": {
+      "name": "Cable Pullover",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 30,
+    "fields": {
+      "name": "Hammer Strength Chest Press",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 31,
+    "fields": {
+      "name": "Iso Lateral Chest Press",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 32,
+    "fields": {
+      "name": "Converging Chest Press",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 33,
+    "fields": {
+      "name": "Push Up",
+      "muscle_group": "CHEST",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 34,
+    "fields": {
+      "name": "Wide Push Up",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 35,
+    "fields": {
+      "name": "Close Push Up",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 36,
+    "fields": {
+      "name": "Decline Push Up",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 37,
+    "fields": {
+      "name": "Incline Push Up",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 38,
+    "fields": {
+      "name": "Diamond Push Up",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 39,
+    "fields": {
+      "name": "Archer Push Up",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 40,
+    "fields": {
+      "name": "Explosive Push Up",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 41,
+    "fields": {
+      "name": "Plyometric Push Up",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 42,
+    "fields": {
+      "name": "One Arm Push Up",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 43,
+    "fields": {
+      "name": "Chest Dips",
+      "muscle_group": "CHEST",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 44,
+    "fields": {
+      "name": "Straight Bar Dips",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 45,
+    "fields": {
+      "name": "Ring Dips",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 46,
+    "fields": {
+      "name": "Planche Push Up",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 47,
+    "fields": {
+      "name": "Pseudo Planche Push Up",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 48,
+    "fields": {
+      "name": "Korean Dips",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 49,
+    "fields": {
+      "name": "Ring Fly",
+      "muscle_group": "CHEST",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 50,
+    "fields": {
+      "name": "Barbell Deadlift",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 51,
+    "fields": {
+      "name": "Romanian Deadlift",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 52,
+    "fields": {
+      "name": "Stiff Leg Deadlift",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 53,
+    "fields": {
+      "name": "Deficit Deadlift",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 54,
+    "fields": {
+      "name": "Rack Pull",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 55,
+    "fields": {
+      "name": "Barbell Bent Over Row",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 56,
+    "fields": {
+      "name": "Pendlay Row",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 57,
+    "fields": {
+      "name": "Yates Row",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 58,
+    "fields": {
+      "name": "Landmine Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 59,
+    "fields": {
+      "name": "T Bar Row",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 60,
+    "fields": {
+      "name": "Barbell Shrug",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 61,
+    "fields": {
+      "name": "Snatch Grip Deadlift",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 62,
+    "fields": {
+      "name": "One Arm Dumbbell Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 63,
+    "fields": {
+      "name": "Dumbbell Bent Over Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 64,
+    "fields": {
+      "name": "Incline Dumbbell Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 65,
+    "fields": {
+      "name": "Chest Supported Dumbbell Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 66,
+    "fields": {
+      "name": "Renegade Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 67,
+    "fields": {
+      "name": "Dumbbell Shrug",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 68,
+    "fields": {
+      "name": "Dumbbell Pullover",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 69,
+    "fields": {
+      "name": "Kroc Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 70,
+    "fields": {
+      "name": "Lat Pulldown",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 71,
+    "fields": {
+      "name": "Wide Grip Lat Pulldown",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 72,
+    "fields": {
+      "name": "Close Grip Lat Pulldown",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 73,
+    "fields": {
+      "name": "Reverse Grip Lat Pulldown",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 74,
+    "fields": {
+      "name": "Neutral Grip Lat Pulldown",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 75,
+    "fields": {
+      "name": "Single Arm Lat Pulldown",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 76,
+    "fields": {
+      "name": "Seated Cable Row",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 77,
+    "fields": {
+      "name": "Close Grip Seated Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 78,
+    "fields": {
+      "name": "Wide Grip Seated Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 79,
+    "fields": {
+      "name": "Single Arm Cable Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 80,
+    "fields": {
+      "name": "Machine Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 81,
+    "fields": {
+      "name": "Plate Loaded Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 82,
+    "fields": {
+      "name": "Hammer Strength Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 83,
+    "fields": {
+      "name": "Straight Arm Pulldown",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 84,
+    "fields": {
+      "name": "Cable Pullover",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 85,
+    "fields": {
+      "name": "Cable Face Pull",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 86,
+    "fields": {
+      "name": "Rope Face Pull",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 87,
+    "fields": {
+      "name": "High Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 88,
+    "fields": {
+      "name": "Low Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 89,
+    "fields": {
+      "name": "Cable Shrug",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 90,
+    "fields": {
+      "name": "Reverse Pec Deck",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 91,
+    "fields": {
+      "name": "Assisted Pull Up Machine",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 92,
+    "fields": {
+      "name": "Iso Lateral Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 93,
+    "fields": {
+      "name": "Chest Supported Row Machine",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 94,
+    "fields": {
+      "name": "Pull Up",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 95,
+    "fields": {
+      "name": "Wide Grip Pull Up",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 96,
+    "fields": {
+      "name": "Close Grip Pull Up",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 97,
+    "fields": {
+      "name": "Neutral Grip Pull Up",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 98,
+    "fields": {
+      "name": "Chin Up",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 99,
+    "fields": {
+      "name": "Archer Pull Up",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 100,
+    "fields": {
+      "name": "Explosive Pull Up",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 101,
+    "fields": {
+      "name": "One Arm Pull Up",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 102,
+    "fields": {
+      "name": "Inverted Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 103,
+    "fields": {
+      "name": "Ring Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 104,
+    "fields": {
+      "name": "Feet Elevated Inverted Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 105,
+    "fields": {
+      "name": "Muscle Up",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 106,
+    "fields": {
+      "name": "Front Lever",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 107,
+    "fields": {
+      "name": "Front Lever Row",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 108,
+    "fields": {
+      "name": "Barbell Overhead Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 109,
+    "fields": {
+      "name": "Standing Military Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 110,
+    "fields": {
+      "name": "Seated Military Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 111,
+    "fields": {
+      "name": "Behind The Neck Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 112,
+    "fields": {
+      "name": "Push Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 113,
+    "fields": {
+      "name": "Bradford Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 114,
+    "fields": {
+      "name": "Barbell Front Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 115,
+    "fields": {
+      "name": "Barbell Upright Row",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 116,
+    "fields": {
+      "name": "Landmine Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 117,
+    "fields": {
+      "name": "Single Arm Landmine Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 118,
+    "fields": {
+      "name": "Dumbbell Shoulder Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 119,
+    "fields": {
+      "name": "Seated Dumbbell Shoulder Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 120,
+    "fields": {
+      "name": "Arnold Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 121,
+    "fields": {
+      "name": "Dumbbell Front Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 122,
+    "fields": {
+      "name": "Alternating Dumbbell Front Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 123,
+    "fields": {
+      "name": "Dumbbell Lateral Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 124,
+    "fields": {
+      "name": "Seated Lateral Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 125,
+    "fields": {
+      "name": "Leaning Lateral Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 126,
+    "fields": {
+      "name": "Single Arm Lateral Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 127,
+    "fields": {
+      "name": "Dumbbell Rear Delt Fly",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 128,
+    "fields": {
+      "name": "Incline Rear Delt Fly",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 129,
+    "fields": {
+      "name": "Dumbbell Upright Row",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 130,
+    "fields": {
+      "name": "Dumbbell Cuban Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 131,
+    "fields": {
+      "name": "Dumbbell Y Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 132,
+    "fields": {
+      "name": "Dumbbell W Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 133,
+    "fields": {
+      "name": "Dumbbell Around The World",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 134,
+    "fields": {
+      "name": "Machine Shoulder Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 135,
+    "fields": {
+      "name": "Plate Loaded Shoulder Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 136,
+    "fields": {
+      "name": "Iso Lateral Shoulder Press",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 137,
+    "fields": {
+      "name": "Machine Lateral Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 138,
+    "fields": {
+      "name": "Seated Lateral Raise Machine",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 139,
+    "fields": {
+      "name": "Rear Delt Machine Fly",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 140,
+    "fields": {
+      "name": "Cable Lateral Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 141,
+    "fields": {
+      "name": "Single Arm Cable Lateral Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 142,
+    "fields": {
+      "name": "Cable Front Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 143,
+    "fields": {
+      "name": "Rope Front Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 144,
+    "fields": {
+      "name": "Cable Upright Row",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 145,
+    "fields": {
+      "name": "Cable Rear Delt Fly",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 146,
+    "fields": {
+      "name": "Single Arm Rear Delt Cable Fly",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 147,
+    "fields": {
+      "name": "Cable Y Raise",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 148,
+    "fields": {
+      "name": "Pike Push Up",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 149,
+    "fields": {
+      "name": "Elevated Pike Push Up",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 150,
+    "fields": {
+      "name": "Handstand Push Up",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 151,
+    "fields": {
+      "name": "Wall Handstand Push Up",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 152,
+    "fields": {
+      "name": "Ring Pike Push Up",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 153,
+    "fields": {
+      "name": "Barbell Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 154,
+    "fields": {
+      "name": "EZ Bar Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 155,
+    "fields": {
+      "name": "Reverse Grip Barbell Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 156,
+    "fields": {
+      "name": "Drag Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 157,
+    "fields": {
+      "name": "Wide Grip Barbell Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 158,
+    "fields": {
+      "name": "Close Grip Barbell Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 159,
+    "fields": {
+      "name": "Dumbbell Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 160,
+    "fields": {
+      "name": "Alternating Dumbbell Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 161,
+    "fields": {
+      "name": "Hammer Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 162,
+    "fields": {
+      "name": "Cross Body Hammer Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 163,
+    "fields": {
+      "name": "Concentration Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 164,
+    "fields": {
+      "name": "Incline Dumbbell Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 165,
+    "fields": {
+      "name": "Spider Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 166,
+    "fields": {
+      "name": "Zottman Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 167,
+    "fields": {
+      "name": "Dumbbell Preacher Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 168,
+    "fields": {
+      "name": "Seated Dumbbell Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 169,
+    "fields": {
+      "name": "Bayesian Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 170,
+    "fields": {
+      "name": "Close Grip Bench Press",
+      "muscle_group": "ARMS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 171,
+    "fields": {
+      "name": "Skull Crusher",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 172,
+    "fields": {
+      "name": "JM Press",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 173,
+    "fields": {
+      "name": "Overhead Dumbbell Triceps Extension",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 174,
+    "fields": {
+      "name": "Single Arm Overhead Extension",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 175,
+    "fields": {
+      "name": "Dumbbell Kickback",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 176,
+    "fields": {
+      "name": "Tate Press",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 177,
+    "fields": {
+      "name": "Dumbbell Skull Crusher",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 178,
+    "fields": {
+      "name": "Cable Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 179,
+    "fields": {
+      "name": "Rope Cable Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 180,
+    "fields": {
+      "name": "Single Arm Cable Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 181,
+    "fields": {
+      "name": "High Cable Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 182,
+    "fields": {
+      "name": "Low Cable Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 183,
+    "fields": {
+      "name": "Machine Preacher Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 184,
+    "fields": {
+      "name": "Plate Loaded Curl Machine",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 185,
+    "fields": {
+      "name": "Cable Pushdown",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 186,
+    "fields": {
+      "name": "Rope Pushdown",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 187,
+    "fields": {
+      "name": "Reverse Grip Pushdown",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 188,
+    "fields": {
+      "name": "Overhead Cable Triceps Extension",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 189,
+    "fields": {
+      "name": "Single Arm Cable Extension",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 190,
+    "fields": {
+      "name": "Cable Kickback",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 191,
+    "fields": {
+      "name": "Machine Triceps Extension",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 192,
+    "fields": {
+      "name": "Assisted Dip Machine",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 193,
+    "fields": {
+      "name": "Inverted Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 194,
+    "fields": {
+      "name": "Ring Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 195,
+    "fields": {
+      "name": "Dips",
+      "muscle_group": "ARMS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 196,
+    "fields": {
+      "name": "Bench Dips",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 197,
+    "fields": {
+      "name": "One Arm Chin Up",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 198,
+    "fields": {
+      "name": "Ring Triceps Extension",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 199,
+    "fields": {
+      "name": "Wrist Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 200,
+    "fields": {
+      "name": "Reverse Wrist Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 201,
+    "fields": {
+      "name": "Behind The Back Wrist Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 202,
+    "fields": {
+      "name": "Dumbbell Wrist Curl",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 203,
+    "fields": {
+      "name": "Farmer's Walk",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 204,
+    "fields": {
+      "name": "Plate Pinch",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 205,
+    "fields": {
+      "name": "Towel Pull Up",
+      "muscle_group": "ARMS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 206,
+    "fields": {
+      "name": "Barbell Back Squat",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 207,
+    "fields": {
+      "name": "Front Squat",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 208,
+    "fields": {
+      "name": "Zercher Squat",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 209,
+    "fields": {
+      "name": "Box Squat",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 210,
+    "fields": {
+      "name": "Pause Squat",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 211,
+    "fields": {
+      "name": "Overhead Squat",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 212,
+    "fields": {
+      "name": "Hack Squat",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 213,
+    "fields": {
+      "name": "Conventional Deadlift",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 214,
+    "fields": {
+      "name": "Sumo Deadlift",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 215,
+    "fields": {
+      "name": "Dumbbell Lunge",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 216,
+    "fields": {
+      "name": "Walking Lunge",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 217,
+    "fields": {
+      "name": "Reverse Lunge",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 218,
+    "fields": {
+      "name": "Bulgarian Split Squat",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 219,
+    "fields": {
+      "name": "Step Back Lunge",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 220,
+    "fields": {
+      "name": "Curtsy Lunge",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 221,
+    "fields": {
+      "name": "Dumbbell Squat",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 222,
+    "fields": {
+      "name": "Goblet Squat",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 223,
+    "fields": {
+      "name": "Dumbbell Step Up",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 224,
+    "fields": {
+      "name": "Barbell Hip Thrust",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 225,
+    "fields": {
+      "name": "Dumbbell Hip Thrust",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 226,
+    "fields": {
+      "name": "Barbell Glute Bridge",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 227,
+    "fields": {
+      "name": "Dumbbell Romanian Deadlift",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 228,
+    "fields": {
+      "name": "Dumbbell Sumo Squat",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 229,
+    "fields": {
+      "name": "Dumbbell Lateral Lunge",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 230,
+    "fields": {
+      "name": "Leg Press",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 231,
+    "fields": {
+      "name": "Hack Squat Machine",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 232,
+    "fields": {
+      "name": "Pendulum Squat",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 233,
+    "fields": {
+      "name": "Smith Machine Squat",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 234,
+    "fields": {
+      "name": "Leg Extension",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 235,
+    "fields": {
+      "name": "Seated Leg Curl",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 236,
+    "fields": {
+      "name": "Lying Leg Curl",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 237,
+    "fields": {
+      "name": "Standing Leg Curl",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 238,
+    "fields": {
+      "name": "Glute Kickback Machine",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 239,
+    "fields": {
+      "name": "Cable Pull Through",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 240,
+    "fields": {
+      "name": "Cable Kickback",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 241,
+    "fields": {
+      "name": "Cable Squat",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 242,
+    "fields": {
+      "name": "Cable Lunge",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 243,
+    "fields": {
+      "name": "Standing Calf Raise Machine",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 244,
+    "fields": {
+      "name": "Seated Calf Raise",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 245,
+    "fields": {
+      "name": "Leg Press Calf Raise",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 246,
+    "fields": {
+      "name": "Smith Machine Calf Raise",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 247,
+    "fields": {
+      "name": "Bodyweight Squat",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 248,
+    "fields": {
+      "name": "Jump Squat",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 249,
+    "fields": {
+      "name": "Wall Sit",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 250,
+    "fields": {
+      "name": "Step Up",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 251,
+    "fields": {
+      "name": "Glute Bridge",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 252,
+    "fields": {
+      "name": "Pistol Squat",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 253,
+    "fields": {
+      "name": "Shrimp Squat",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 254,
+    "fields": {
+      "name": "Nordic Hamstring Curl",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 255,
+    "fields": {
+      "name": "Sissy Squat",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 256,
+    "fields": {
+      "name": "Box Jump",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 257,
+    "fields": {
+      "name": "Broad Jump",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 258,
+    "fields": {
+      "name": "Skater Jump",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 259,
+    "fields": {
+      "name": "Dumbbell Side Bend",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 260,
+    "fields": {
+      "name": "Dumbbell Russian Twist",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 261,
+    "fields": {
+      "name": "Dumbbell Sit Up",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 262,
+    "fields": {
+      "name": "Dumbbell V Sit",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 263,
+    "fields": {
+      "name": "Dumbbell Woodchopper",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 264,
+    "fields": {
+      "name": "Dumbbell Overhead Sit Up",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 265,
+    "fields": {
+      "name": "Barbell Rollout",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 266,
+    "fields": {
+      "name": "Landmine Rotation",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 267,
+    "fields": {
+      "name": "Landmine Twist",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 268,
+    "fields": {
+      "name": "Barbell Sit Up",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 269,
+    "fields": {
+      "name": "Barbell Side Bend",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 270,
+    "fields": {
+      "name": "Cable Crunch",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 271,
+    "fields": {
+      "name": "Rope Cable Crunch",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 272,
+    "fields": {
+      "name": "Cable Woodchopper",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 273,
+    "fields": {
+      "name": "Cable Russian Twist",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 274,
+    "fields": {
+      "name": "Cable Side Bend",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 275,
+    "fields": {
+      "name": "Cable Pallof Press",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 276,
+    "fields": {
+      "name": "Cable Reverse Crunch",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 277,
+    "fields": {
+      "name": "Ab Crunch Machine",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 278,
+    "fields": {
+      "name": "Rotary Torso Machine",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 279,
+    "fields": {
+      "name": "Captain's Chair Leg Raise",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 280,
+    "fields": {
+      "name": "Sit Up",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 281,
+    "fields": {
+      "name": "Crunch",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 282,
+    "fields": {
+      "name": "Reverse Crunch",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 283,
+    "fields": {
+      "name": "Leg Raise",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 284,
+    "fields": {
+      "name": "Hanging Leg Raise",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 285,
+    "fields": {
+      "name": "Knee Raise",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 286,
+    "fields": {
+      "name": "Hanging Knee Raise",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 287,
+    "fields": {
+      "name": "Plank",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 288,
+    "fields": {
+      "name": "Side Plank",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 289,
+    "fields": {
+      "name": "Reverse Plank",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 290,
+    "fields": {
+      "name": "Bird Dog",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 291,
+    "fields": {
+      "name": "Dead Bug",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 292,
+    "fields": {
+      "name": "Dragon Flag",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 293,
+    "fields": {
+      "name": "L Sit",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 294,
+    "fields": {
+      "name": "Hanging Windshield Wipers",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 295,
+    "fields": {
+      "name": "Toes To Bar",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 296,
+    "fields": {
+      "name": "V Ups",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 297,
+    "fields": {
+      "name": "Mountain Climbers",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 298,
+    "fields": {
+      "name": "Flutter Kicks",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 299,
+    "fields": {
+      "name": "Scissor Kicks",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 300,
+    "fields": {
+      "name": "Bicycle Crunch",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 301,
+    "fields": {
+      "name": "Hollow Body Hold",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 302,
+    "fields": {
+      "name": "Ab Wheel Rollout",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 303,
+    "fields": {
+      "name": "Ring L Sit",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 304,
+    "fields": {
+      "name": "Running (Treadmill)",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 305,
+    "fields": {
+      "name": "Walking (Treadmill)",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 306,
+    "fields": {
+      "name": "Incline Walking",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 307,
+    "fields": {
+      "name": "Cycling (Stationary Bike)",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 308,
+    "fields": {
+      "name": "Spinning",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 309,
+    "fields": {
+      "name": "Rowing Machine",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 310,
+    "fields": {
+      "name": "Stair Climber",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 311,
+    "fields": {
+      "name": "Jump Rope",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 312,
+    "fields": {
+      "name": "Battle Rope",
+      "muscle_group": "SHOULDERS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 313,
+    "fields": {
+      "name": "Ski Erg",
+      "muscle_group": "BACK",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 314,
+    "fields": {
+      "name": "Elliptical Trainer",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 315,
+    "fields": {
+      "name": "Sled Push",
+      "muscle_group": "LEGS",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 316,
+    "fields": {
+      "name": "Sled Pull",
+      "muscle_group": "BACK",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 317,
+    "fields": {
+      "name": "Burpees",
+      "muscle_group": "CHEST",
+      "is_compound": true
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 318,
+    "fields": {
+      "name": "High Knees",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 319,
+    "fields": {
+      "name": "Jumping Jacks",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 320,
+    "fields": {
+      "name": "Box Jump Cardio",
+      "muscle_group": "LEGS",
+      "is_compound": false
+    }
+  },
+  {
+    "model": "workouts.exercise",
+    "pk": 321,
+    "fields": {
+      "name": "Mountain Climbers Cardio",
+      "muscle_group": "CORE",
+      "is_compound": false
+    }
+  }
+]
