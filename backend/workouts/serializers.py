@@ -33,7 +33,12 @@ class RoutineSerializer(serializers.ModelSerializer):
         
         device_id = None
         if request:
-            device_id = request.query_params.get('device_id') or request.headers.get('Device-Id')
+            device_id = (
+                request.query_params.get('device_id') or
+                request.headers.get('Device-Id') or
+                request.headers.get('device-id') or
+                request.data.get('device_id')
+            )
 
         if device_id:
             device, _ = Device.objects.get_or_create(id=device_id)
@@ -79,7 +84,12 @@ class WorkoutSessionSerializer(serializers.ModelSerializer):
         
         device_id = None
         if request:
-            device_id = request.query_params.get('device_id') or request.headers.get('Device-Id')
+            device_id = (
+                request.query_params.get('device_id') or
+                request.headers.get('Device-Id') or
+                request.headers.get('device-id') or
+                request.data.get('device_id')
+            )
 
         if device_id:
             device, _ = Device.objects.get_or_create(id=device_id)
