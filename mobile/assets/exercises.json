@@ -1,0 +1,1928 @@
+[
+  {
+    "id": 1,
+    "name": "Barbell Bench Press",
+    "muscle_group": "CHEST",
+    "is_compound": true
+  },
+  {
+    "id": 2,
+    "name": "Incline Barbell Bench Press",
+    "muscle_group": "CHEST",
+    "is_compound": true
+  },
+  {
+    "id": 3,
+    "name": "Decline Barbell Bench Press",
+    "muscle_group": "CHEST",
+    "is_compound": true
+  },
+  {
+    "id": 4,
+    "name": "Reverse Grip Bench Press",
+    "muscle_group": "CHEST",
+    "is_compound": true
+  },
+  {
+    "id": 5,
+    "name": "Guillotine Press",
+    "muscle_group": "CHEST",
+    "is_compound": true
+  },
+  {
+    "id": 6,
+    "name": "Barbell Floor Press",
+    "muscle_group": "CHEST",
+    "is_compound": true
+  },
+  {
+    "id": 7,
+    "name": "Dumbbell Bench Press",
+    "muscle_group": "CHEST",
+    "is_compound": true
+  },
+  {
+    "id": 8,
+    "name": "Incline Dumbbell Bench Press",
+    "muscle_group": "CHEST",
+    "is_compound": true
+  },
+  {
+    "id": 9,
+    "name": "Decline Dumbbell Bench Press",
+    "muscle_group": "CHEST",
+    "is_compound": true
+  },
+  {
+    "id": 10,
+    "name": "Dumbbell Fly",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 11,
+    "name": "Incline Dumbbell Fly",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 12,
+    "name": "Decline Dumbbell Fly",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 13,
+    "name": "Dumbbell Pullover",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 14,
+    "name": "Dumbbell Squeeze Press",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 15,
+    "name": "Single Arm Dumbbell Press",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 16,
+    "name": "Dumbbell Floor Press",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 17,
+    "name": "Machine Chest Press",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 18,
+    "name": "Incline Machine Press",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 19,
+    "name": "Decline Machine Press",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 20,
+    "name": "Plate Loaded Chest Press",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 21,
+    "name": "Pec Deck Fly",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 22,
+    "name": "Cable Chest Fly",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 23,
+    "name": "Low Cable Fly",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 24,
+    "name": "High Cable Fly",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 25,
+    "name": "Cable Crossover",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 26,
+    "name": "Single Arm Cable Fly",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 27,
+    "name": "Cable Press",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 28,
+    "name": "Standing Cable Chest Press",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 29,
+    "name": "Cable Pullover",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 30,
+    "name": "Hammer Strength Chest Press",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 31,
+    "name": "Iso Lateral Chest Press",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 32,
+    "name": "Converging Chest Press",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 33,
+    "name": "Push Up",
+    "muscle_group": "CHEST",
+    "is_compound": true
+  },
+  {
+    "id": 34,
+    "name": "Wide Push Up",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 35,
+    "name": "Close Push Up",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 36,
+    "name": "Decline Push Up",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 37,
+    "name": "Incline Push Up",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 38,
+    "name": "Diamond Push Up",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 39,
+    "name": "Archer Push Up",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 40,
+    "name": "Explosive Push Up",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 41,
+    "name": "Plyometric Push Up",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 42,
+    "name": "One Arm Push Up",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 43,
+    "name": "Chest Dips",
+    "muscle_group": "CHEST",
+    "is_compound": true
+  },
+  {
+    "id": 44,
+    "name": "Straight Bar Dips",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 45,
+    "name": "Ring Dips",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 46,
+    "name": "Planche Push Up",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 47,
+    "name": "Pseudo Planche Push Up",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 48,
+    "name": "Korean Dips",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 49,
+    "name": "Ring Fly",
+    "muscle_group": "CHEST",
+    "is_compound": false
+  },
+  {
+    "id": 50,
+    "name": "Barbell Deadlift",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 51,
+    "name": "Romanian Deadlift",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 52,
+    "name": "Stiff Leg Deadlift",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 53,
+    "name": "Deficit Deadlift",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 54,
+    "name": "Rack Pull",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 55,
+    "name": "Barbell Bent Over Row",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 56,
+    "name": "Pendlay Row",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 57,
+    "name": "Yates Row",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 58,
+    "name": "Landmine Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 59,
+    "name": "T Bar Row",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 60,
+    "name": "Barbell Shrug",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 61,
+    "name": "Snatch Grip Deadlift",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 62,
+    "name": "One Arm Dumbbell Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 63,
+    "name": "Dumbbell Bent Over Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 64,
+    "name": "Incline Dumbbell Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 65,
+    "name": "Chest Supported Dumbbell Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 66,
+    "name": "Renegade Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 67,
+    "name": "Dumbbell Shrug",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 68,
+    "name": "Dumbbell Pullover",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 69,
+    "name": "Kroc Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 70,
+    "name": "Lat Pulldown",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 71,
+    "name": "Wide Grip Lat Pulldown",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 72,
+    "name": "Close Grip Lat Pulldown",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 73,
+    "name": "Reverse Grip Lat Pulldown",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 74,
+    "name": "Neutral Grip Lat Pulldown",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 75,
+    "name": "Single Arm Lat Pulldown",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 76,
+    "name": "Seated Cable Row",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 77,
+    "name": "Close Grip Seated Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 78,
+    "name": "Wide Grip Seated Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 79,
+    "name": "Single Arm Cable Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 80,
+    "name": "Machine Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 81,
+    "name": "Plate Loaded Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 82,
+    "name": "Hammer Strength Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 83,
+    "name": "Straight Arm Pulldown",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 84,
+    "name": "Cable Pullover",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 85,
+    "name": "Cable Face Pull",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 86,
+    "name": "Rope Face Pull",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 87,
+    "name": "High Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 88,
+    "name": "Low Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 89,
+    "name": "Cable Shrug",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 90,
+    "name": "Reverse Pec Deck",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 91,
+    "name": "Assisted Pull Up Machine",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 92,
+    "name": "Iso Lateral Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 93,
+    "name": "Chest Supported Row Machine",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 94,
+    "name": "Pull Up",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 95,
+    "name": "Wide Grip Pull Up",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 96,
+    "name": "Close Grip Pull Up",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 97,
+    "name": "Neutral Grip Pull Up",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 98,
+    "name": "Chin Up",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 99,
+    "name": "Archer Pull Up",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 100,
+    "name": "Explosive Pull Up",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 101,
+    "name": "One Arm Pull Up",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 102,
+    "name": "Inverted Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 103,
+    "name": "Ring Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 104,
+    "name": "Feet Elevated Inverted Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 105,
+    "name": "Muscle Up",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 106,
+    "name": "Front Lever",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 107,
+    "name": "Front Lever Row",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 108,
+    "name": "Barbell Overhead Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": true
+  },
+  {
+    "id": 109,
+    "name": "Standing Military Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": true
+  },
+  {
+    "id": 110,
+    "name": "Seated Military Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": true
+  },
+  {
+    "id": 111,
+    "name": "Behind The Neck Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 112,
+    "name": "Push Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": true
+  },
+  {
+    "id": 113,
+    "name": "Bradford Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 114,
+    "name": "Barbell Front Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 115,
+    "name": "Barbell Upright Row",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 116,
+    "name": "Landmine Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 117,
+    "name": "Single Arm Landmine Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 118,
+    "name": "Dumbbell Shoulder Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": true
+  },
+  {
+    "id": 119,
+    "name": "Seated Dumbbell Shoulder Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 120,
+    "name": "Arnold Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 121,
+    "name": "Dumbbell Front Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 122,
+    "name": "Alternating Dumbbell Front Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 123,
+    "name": "Dumbbell Lateral Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 124,
+    "name": "Seated Lateral Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 125,
+    "name": "Leaning Lateral Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 126,
+    "name": "Single Arm Lateral Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 127,
+    "name": "Dumbbell Rear Delt Fly",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 128,
+    "name": "Incline Rear Delt Fly",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 129,
+    "name": "Dumbbell Upright Row",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 130,
+    "name": "Dumbbell Cuban Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 131,
+    "name": "Dumbbell Y Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 132,
+    "name": "Dumbbell W Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 133,
+    "name": "Dumbbell Around The World",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 134,
+    "name": "Machine Shoulder Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 135,
+    "name": "Plate Loaded Shoulder Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 136,
+    "name": "Iso Lateral Shoulder Press",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 137,
+    "name": "Machine Lateral Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 138,
+    "name": "Seated Lateral Raise Machine",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 139,
+    "name": "Rear Delt Machine Fly",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 140,
+    "name": "Cable Lateral Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 141,
+    "name": "Single Arm Cable Lateral Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 142,
+    "name": "Cable Front Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 143,
+    "name": "Rope Front Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 144,
+    "name": "Cable Upright Row",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 145,
+    "name": "Cable Rear Delt Fly",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 146,
+    "name": "Single Arm Rear Delt Cable Fly",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 147,
+    "name": "Cable Y Raise",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 148,
+    "name": "Pike Push Up",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 149,
+    "name": "Elevated Pike Push Up",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 150,
+    "name": "Handstand Push Up",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 151,
+    "name": "Wall Handstand Push Up",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 152,
+    "name": "Ring Pike Push Up",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 153,
+    "name": "Barbell Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 154,
+    "name": "EZ Bar Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 155,
+    "name": "Reverse Grip Barbell Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 156,
+    "name": "Drag Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 157,
+    "name": "Wide Grip Barbell Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 158,
+    "name": "Close Grip Barbell Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 159,
+    "name": "Dumbbell Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 160,
+    "name": "Alternating Dumbbell Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 161,
+    "name": "Hammer Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 162,
+    "name": "Cross Body Hammer Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 163,
+    "name": "Concentration Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 164,
+    "name": "Incline Dumbbell Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 165,
+    "name": "Spider Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 166,
+    "name": "Zottman Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 167,
+    "name": "Dumbbell Preacher Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 168,
+    "name": "Seated Dumbbell Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 169,
+    "name": "Bayesian Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 170,
+    "name": "Close Grip Bench Press",
+    "muscle_group": "ARMS",
+    "is_compound": true
+  },
+  {
+    "id": 171,
+    "name": "Skull Crusher",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 172,
+    "name": "JM Press",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 173,
+    "name": "Overhead Dumbbell Triceps Extension",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 174,
+    "name": "Single Arm Overhead Extension",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 175,
+    "name": "Dumbbell Kickback",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 176,
+    "name": "Tate Press",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 177,
+    "name": "Dumbbell Skull Crusher",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 178,
+    "name": "Cable Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 179,
+    "name": "Rope Cable Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 180,
+    "name": "Single Arm Cable Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 181,
+    "name": "High Cable Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 182,
+    "name": "Low Cable Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 183,
+    "name": "Machine Preacher Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 184,
+    "name": "Plate Loaded Curl Machine",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 185,
+    "name": "Cable Pushdown",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 186,
+    "name": "Rope Pushdown",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 187,
+    "name": "Reverse Grip Pushdown",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 188,
+    "name": "Overhead Cable Triceps Extension",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 189,
+    "name": "Single Arm Cable Extension",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 190,
+    "name": "Cable Kickback",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 191,
+    "name": "Machine Triceps Extension",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 192,
+    "name": "Assisted Dip Machine",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 193,
+    "name": "Inverted Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 194,
+    "name": "Ring Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 195,
+    "name": "Dips",
+    "muscle_group": "ARMS",
+    "is_compound": true
+  },
+  {
+    "id": 196,
+    "name": "Bench Dips",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 197,
+    "name": "One Arm Chin Up",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 198,
+    "name": "Ring Triceps Extension",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 199,
+    "name": "Wrist Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 200,
+    "name": "Reverse Wrist Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 201,
+    "name": "Behind The Back Wrist Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 202,
+    "name": "Dumbbell Wrist Curl",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 203,
+    "name": "Farmer's Walk",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 204,
+    "name": "Plate Pinch",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 205,
+    "name": "Towel Pull Up",
+    "muscle_group": "ARMS",
+    "is_compound": false
+  },
+  {
+    "id": 206,
+    "name": "Barbell Back Squat",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 207,
+    "name": "Front Squat",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 208,
+    "name": "Zercher Squat",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 209,
+    "name": "Box Squat",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 210,
+    "name": "Pause Squat",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 211,
+    "name": "Overhead Squat",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 212,
+    "name": "Hack Squat",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 213,
+    "name": "Conventional Deadlift",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 214,
+    "name": "Sumo Deadlift",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 215,
+    "name": "Dumbbell Lunge",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 216,
+    "name": "Walking Lunge",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 217,
+    "name": "Reverse Lunge",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 218,
+    "name": "Bulgarian Split Squat",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 219,
+    "name": "Step Back Lunge",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 220,
+    "name": "Curtsy Lunge",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 221,
+    "name": "Dumbbell Squat",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 222,
+    "name": "Goblet Squat",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 223,
+    "name": "Dumbbell Step Up",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 224,
+    "name": "Barbell Hip Thrust",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 225,
+    "name": "Dumbbell Hip Thrust",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 226,
+    "name": "Barbell Glute Bridge",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 227,
+    "name": "Dumbbell Romanian Deadlift",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 228,
+    "name": "Dumbbell Sumo Squat",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 229,
+    "name": "Dumbbell Lateral Lunge",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 230,
+    "name": "Leg Press",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 231,
+    "name": "Hack Squat Machine",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 232,
+    "name": "Pendulum Squat",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 233,
+    "name": "Smith Machine Squat",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 234,
+    "name": "Leg Extension",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 235,
+    "name": "Seated Leg Curl",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 236,
+    "name": "Lying Leg Curl",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 237,
+    "name": "Standing Leg Curl",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 238,
+    "name": "Glute Kickback Machine",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 239,
+    "name": "Cable Pull Through",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 240,
+    "name": "Cable Kickback",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 241,
+    "name": "Cable Squat",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 242,
+    "name": "Cable Lunge",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 243,
+    "name": "Standing Calf Raise Machine",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 244,
+    "name": "Seated Calf Raise",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 245,
+    "name": "Leg Press Calf Raise",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 246,
+    "name": "Smith Machine Calf Raise",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 247,
+    "name": "Bodyweight Squat",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 248,
+    "name": "Jump Squat",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 249,
+    "name": "Wall Sit",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 250,
+    "name": "Step Up",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 251,
+    "name": "Glute Bridge",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 252,
+    "name": "Pistol Squat",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 253,
+    "name": "Shrimp Squat",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 254,
+    "name": "Nordic Hamstring Curl",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 255,
+    "name": "Sissy Squat",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 256,
+    "name": "Box Jump",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 257,
+    "name": "Broad Jump",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 258,
+    "name": "Skater Jump",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 259,
+    "name": "Dumbbell Side Bend",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 260,
+    "name": "Dumbbell Russian Twist",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 261,
+    "name": "Dumbbell Sit Up",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 262,
+    "name": "Dumbbell V Sit",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 263,
+    "name": "Dumbbell Woodchopper",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 264,
+    "name": "Dumbbell Overhead Sit Up",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 265,
+    "name": "Barbell Rollout",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 266,
+    "name": "Landmine Rotation",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 267,
+    "name": "Landmine Twist",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 268,
+    "name": "Barbell Sit Up",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 269,
+    "name": "Barbell Side Bend",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 270,
+    "name": "Cable Crunch",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 271,
+    "name": "Rope Cable Crunch",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 272,
+    "name": "Cable Woodchopper",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 273,
+    "name": "Cable Russian Twist",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 274,
+    "name": "Cable Side Bend",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 275,
+    "name": "Cable Pallof Press",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 276,
+    "name": "Cable Reverse Crunch",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 277,
+    "name": "Ab Crunch Machine",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 278,
+    "name": "Rotary Torso Machine",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 279,
+    "name": "Captain's Chair Leg Raise",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 280,
+    "name": "Sit Up",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 281,
+    "name": "Crunch",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 282,
+    "name": "Reverse Crunch",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 283,
+    "name": "Leg Raise",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 284,
+    "name": "Hanging Leg Raise",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 285,
+    "name": "Knee Raise",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 286,
+    "name": "Hanging Knee Raise",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 287,
+    "name": "Plank",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 288,
+    "name": "Side Plank",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 289,
+    "name": "Reverse Plank",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 290,
+    "name": "Bird Dog",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 291,
+    "name": "Dead Bug",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 292,
+    "name": "Dragon Flag",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 293,
+    "name": "L Sit",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 294,
+    "name": "Hanging Windshield Wipers",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 295,
+    "name": "Toes To Bar",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 296,
+    "name": "V Ups",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 297,
+    "name": "Mountain Climbers",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 298,
+    "name": "Flutter Kicks",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 299,
+    "name": "Scissor Kicks",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 300,
+    "name": "Bicycle Crunch",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 301,
+    "name": "Hollow Body Hold",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 302,
+    "name": "Ab Wheel Rollout",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 303,
+    "name": "Ring L Sit",
+    "muscle_group": "CORE",
+    "is_compound": false
+  },
+  {
+    "id": 304,
+    "name": "Running (Treadmill)",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 305,
+    "name": "Walking (Treadmill)",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 306,
+    "name": "Incline Walking",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 307,
+    "name": "Cycling (Stationary Bike)",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 308,
+    "name": "Spinning",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 309,
+    "name": "Rowing Machine",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 310,
+    "name": "Stair Climber",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 311,
+    "name": "Jump Rope",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 312,
+    "name": "Battle Rope",
+    "muscle_group": "SHOULDERS",
+    "is_compound": false
+  },
+  {
+    "id": 313,
+    "name": "Ski Erg",
+    "muscle_group": "BACK",
+    "is_compound": false
+  },
+  {
+    "id": 314,
+    "name": "Elliptical Trainer",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 315,
+    "name": "Sled Push",
+    "muscle_group": "LEGS",
+    "is_compound": true
+  },
+  {
+    "id": 316,
+    "name": "Sled Pull",
+    "muscle_group": "BACK",
+    "is_compound": true
+  },
+  {
+    "id": 317,
+    "name": "Burpees",
+    "muscle_group": "CHEST",
+    "is_compound": true
+  },
+  {
+    "id": 318,
+    "name": "High Knees",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 319,
+    "name": "Jumping Jacks",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 320,
+    "name": "Box Jump Cardio",
+    "muscle_group": "LEGS",
+    "is_compound": false
+  },
+  {
+    "id": 321,
+    "name": "Mountain Climbers Cardio",
+    "muscle_group": "CORE",
+    "is_compound": false
+  }
+]
